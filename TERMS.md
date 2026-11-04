@@ -74,4 +74,4 @@ If these terms change, the updated version will be published in this repository 
 
 ## 14. Contact
 
-For questions about these terms, contact: **[YOUR CONTACT EMAIL]**
+For questions about these terms, contact: **me@guswei.my.id**

@@ -88,4 +88,4 @@ If this policy changes, the updated version will be published in this repository
 
 ## 10. Contact
 
-For questions about this policy, contact: **[YOUR CONTACT EMAIL]**
+For questions about this policy, contact: **me@guswei.my.id**
